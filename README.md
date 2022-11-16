@@ -3,6 +3,7 @@ This repository contains scripts and supplementary files supporting the followin
 Genetic association and functional analysis reveal complex association at 16p13 in seropositive autoimmune diseases and implicate CLEC16A in B cell receptor signaling.
 Harley ITW, et al. 2022
 
+These scripts make several assumptions about the software environment and are provided as is. 
 
 >>> import sys
 >>> print(sys.version)
